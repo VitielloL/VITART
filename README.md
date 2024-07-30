@@ -34,8 +34,8 @@ Para visualizar o projeto localmente:
    ```
 2. Navegue para o diretório do projeto:
   ```bash
-   cd vitart
-   ```
+  cd vitart
+  ```
 
 3. Abra o arquivo index.html no seu navegador
 
