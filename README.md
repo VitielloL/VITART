@@ -29,9 +29,10 @@ Este projeto é uma landing page para o site de venda de canecas, chamado **VITA
 Para visualizar o projeto localmente:
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/usuario/vitart.git
-   ```
+  ```bash
+  git clone https://github.com/usuario/vitart.git
+  ```
+
 2. Navegue para o diretório do projeto:
   ```bash
   cd vitart
