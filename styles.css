@@ -45,6 +45,7 @@ section {
 }
 
 .sobre-content h1 {
+    font-family: 'Rock Salt', cursive;
     font-size: 28px;
     margin-bottom: 10px;
 }
@@ -62,9 +63,12 @@ section {
 }
 
 .whatsapp-icon img {
-    width: 30px; /* Tamanho reduzido para o ícone do WhatsApp */
+    width: 30px; /* Aumentado o tamanho do ícone do WhatsApp */
     height: 30px;
     border-radius: 50%;
+    padding: 5px; /* Padding adicionado para combinar com o estilo do botão fixo */
+    background-color: #25D366; /* Cor de fundo do botão */
+    border: 5px solid #25D366; /* Borda com a mesma cor verde */
 }
 
 #produtos, #promocoes {
@@ -89,6 +93,20 @@ section {
 }
 
 .product {
+    margin-top: 1%;
+    margin-bottom: 3%;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    text-align: center;
+    width: 30%; /* Ajustado para um tamanho menor */
+    box-sizing: border-box;
+}
+
+.product-promo {
+    margin-top: 1%;
     background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 8px;
@@ -100,6 +118,11 @@ section {
 }
 
 .product img {
+    max-width: 50%; /* Reduzido ainda mais o tamanho das imagens */
+    border-radius: 8px;
+}
+
+.product-promo img {
     max-width: 50%; /* Reduzido ainda mais o tamanho das imagens */
     border-radius: 8px;
 }
