@@ -38,7 +38,7 @@ Para visualizar o projeto localmente:
   cd vitart
   ```
 
-3. Abra o arquivo index.html no seu navegador
+3. Abra o arquivo **index.html** no seu navegador
 
 
 
